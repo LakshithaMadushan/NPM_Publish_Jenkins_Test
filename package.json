@@ -1,6 +1,6 @@
 {
   "name": "buddy-test",
-  "version": "3.0.4",
+  "version": "3.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Lakshitha Madushan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
